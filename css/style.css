@@ -1,0 +1,83 @@
+/* Começo Do Site*/
+
+/* Primeira Parte (Header,h1)*/
+header {
+    display: flex;
+    justify-items: center;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: #004080;
+    height: 94px;
+}
+
+
+h1 {}
+
+/*fim da primeira parte*/
+
+/* Começo Do meio do site*/
+.conteiner {
+
+    margin-top: 50px;
+    align-items: center;
+    justify-items: center;
+    color: #000000;
+}
+
+
+form {
+    display: flex;
+    text-align: center;
+    justify-items: center;
+    background-color: #F3F3F3;
+    height: 600px;
+    width: 520px;
+    border-radius: 20px;
+}
+
+.p_form {
+    display: block;
+    width: 400px;
+    font-size: 30px;
+    text-align: left;
+    margin-left: 125px;
+    margin-top: 100px;
+
+}
+
+#altura {
+    width: 100px;
+    height: 10px;
+    margin-top: 230px;
+    text-align: center;
+
+}
+
+/* Barras de entrada*/
+
+.campo-entrada {
+    position: absolute;
+    display: block;
+    width: 20px;
+    height: 20px;
+
+
+}
+
+.text__form {
+    display: block;
+}
+
+.entrada_one {
+    display: block;
+    position: relative;
+    text-align: center;
+    padding: 40px;
+}
+
+.entrada_two {
+    display: block;
+    text-align: center;
+    padding: 20px;
+    margin-right: 20px;
+}
