@@ -10,8 +10,14 @@ header {
     height: 94px;
 }
 
+h1{
+  color: #f9fcff;
+}
 
-h1 {}
+.tittle_{
+    font-size: 40px;
+}
+
 
 /*fim da primeira parte*/
 
